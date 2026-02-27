@@ -16,6 +16,7 @@
                     <h1>
                         <bean:write name="helloForm" property="message" />
                     </h1>
+                    <h2><%=helloForm.getMessage()%></h2>
                 </div>
             </body>
 
