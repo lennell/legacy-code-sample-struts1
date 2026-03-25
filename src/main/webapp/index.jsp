@@ -12,7 +12,7 @@
                 <div class="container jumbotron">
                     <div>
                         <h1>Welcome to Struts 1 Example!</h1>
-                        <p>This is a simple example of a Struts 1 application.</p>
+                        <p>Thiss is a simple example of a Struts 1 application.</p>
                     </div>
                     <div class="row">
                         <div class="col-sm-2">
